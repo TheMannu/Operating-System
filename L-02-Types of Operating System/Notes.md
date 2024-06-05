@@ -1,6 +1,4 @@
-Sure, here is the content formatted as a Markdown file:
 
-```markdown
 # Operating Systems (OS)
 
 ## Goals of an Operating System
@@ -25,7 +23,7 @@ Sure, here is the content formatted as a Markdown file:
 - **Windows NT**: Multiprocessing system
 - **LOCUS**: Distributed operating system
 - **ATCSJ**: Real-time OS
-```
+
 # Types of Operating Systems
 
 ## Single Process OS
@@ -73,4 +71,3 @@ Sure, here is the content formatted as a Markdown file:
 - Real-time error-free computations within tight time boundaries.
 - Used in applications such as air traffic control systems, robots, etc.
 
-You 
