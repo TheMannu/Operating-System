@@ -1,4 +1,3 @@
----
 
 ### How Apps Interact with Kernel Using System Calls
 
@@ -71,4 +70,3 @@
 | **Communication**      | `CreatePipe()`                 | `pipe()`                    |
 |                        | `CreateFileMapping()`          | `shmget()`, `mmap()`        |
 
----
